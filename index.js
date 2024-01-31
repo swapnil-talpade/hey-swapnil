@@ -5,7 +5,7 @@ function logDetails() {
   const githubLink = "https://github.com/swapnil-talpade";
   const twitterLink = "https://twitter.com/TalpadeSwapnil";
   const linkedinLink = "https://www.linkedin.com/in/swapnil-talpade/";
-  const wesbiteLink = "https://swapniltalpade.netlify.app/";
+  const wesbiteLink = "https://swapnil-talpade.vercel.app/";
 
   // Create a colorful box using ANSI escape codes
   const colorfulBox = `    \x1b[38;5;51m+----------------------------------------------------------------------+
